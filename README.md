@@ -19,7 +19,7 @@
 - ⚡ Fun fact **I am a student of the ALX Software Engineering Programme**
  
  ## 🔗 Links
-[![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@louisemekene)
+[![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@louisemekene189)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-emekene-92b3461b2)
 
 
