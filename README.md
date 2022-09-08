@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=louis-emekene&label=Profile%20views&color=0e75b6&style=flat" alt="Tolulope" /> </p>
 
-<p align="left"> <a href="https://twitter.com/FakunleTolu" target="blank"><img src="https://img.shields.io/twitter/follow/FakunleTolu?logo=twitter&style=for-the-badge" alt="FakunleTolu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/louisemekene" target="blank"><img src="https://img.shields.io/twitter/follow/louisemekene?logo=twitter&style=for-the-badge" alt="Louis Emekene" /></a> </p>
 
 - 🔭 I’m currently working on **Projects in Machine Learning and Artificial Intelligence**
 
