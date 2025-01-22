@@ -4,9 +4,9 @@
 <h3 align="center">A Passionate Software Engineer from Nigeria.</h3>
 <img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=louis-Emekene&label=Profile%20views&color=0e75b6&style=flat" alt="Tolulope" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=louis-Emekene&label=Profile%20views&color=0e75b6&style=flat" alt="louis_emekene" /> </p>
 
-<p align="left"> <a href="https://twitter.com/FakunleTolu" target="blank"><img src="https://img.shields.io/twitter/follow/FakunleTolu?logo=twitter&style=for-the-badge" alt="FakunleTolu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/louis_emekene" target="blank"><img src="https://img.shields.io/twitter/follow/louis_emekene?logo=twitter&style=for-the-badge" alt="louis_emekene" /></a> </p>
 
 - 🔭 I'm currently working on **Projects with Flutter, Dart and Python Django**
 - 🌱 I'm also learning **Dynamic Programming**
@@ -17,11 +17,11 @@
 
 ## 🔗 Links
 
-<!-- [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://developers.google.com/profile/u/tolulopefakunle/dashboard) -->
+<!-- [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://developers.google.com/profile/u/louis_emekene/dashboard) -->
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/tolutech/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/4clrdv)
-[![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@fakunlelouis-Emekene)
-<!-- [![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tolucoder)
+[![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@louis-Emekene)
+<!-- [![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/louis_emekene)
 [![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2TH9k3DtCjwPUovh-Sb-Qg) -->
 
 
