@@ -4,7 +4,7 @@
 <h3 align="center">Talented Python Developer</h3>
 <img align= "right" alt="CodingGuy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=louis-emekene&label=Profile%20views&color=0e75b6&style=flat" alt="Tolulope" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=louis-emekene&label=Profile%20views&color=0e75b6&style=flat" alt="Louis" /> </p>
 
 <p align="left"> <a href="https://twitter.com/louis_emekene" target="blank"><img src="https://img.shields.io/twitter/follow/Louis?logo=twitter&style=for-the-badge" alt="Louis" /></a> </p>
 
@@ -21,7 +21,7 @@
 - 🔭 I'm a member of **Google Developer Group, Benin City, Edo State**
  
  ## 🔗 Links:
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://developers.google.com/profile/u/tolulope/dashboard)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://developers.google.com/profile/u/Louis/dashboard)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/louis-emekene-92b3461b2)
 <!--
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/4clrdv)
@@ -82,7 +82,7 @@ Name | Badges
  <b>Note:</b> The top languages shown here is just a measure of what I have posted here on GitHub and not my actual skill level, Thank you.
 
 
-<!-- > <a href="https://github.com/louis-emekene/github-readme-activity-graph"><img alt="Tolulope ' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=louis-emekene&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+<!-- > <a href="https://github.com/louis-emekene/github-readme-activity-graph"><img alt="Louis ' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=louis-emekene&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 
