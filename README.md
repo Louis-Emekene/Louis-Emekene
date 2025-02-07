@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=louis-emekene&label=Profile%20views&color=0e75b6&style=flat" alt="Tolulope" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Tolu" target="blank"><img src="https://img.shields.io/twitter/follow/Tolu?logo=twitter&style=for-the-badge" alt="Tolu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/louis_emekene" target="blank"><img src="https://img.shields.io/twitter/follow/Louis?logo=twitter&style=for-the-badge" alt="Louis" /></a> </p>
 
 - 🔭 I’m working on **Projects with Python and NodeJS**
 
